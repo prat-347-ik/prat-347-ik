@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26xBI73gWquCBBCWQ/giphy.gif" width="100%" height="150" style="object-fit:cover"/>
   <br/>
-  <h1>🎧 Soundchecking... I'm [YOUR_NAME]</h1>
+  <h1>🎧 Soundchecking... I'm prat-347-ik</h1>
   <p><b>Developer | Audiophile | Beat Maker</b></p>
 </div>
 
