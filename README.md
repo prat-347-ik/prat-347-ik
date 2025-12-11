@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header GIF -->
-<img src="https://raw.githubusercontent.com//main/banner.svg" width="100%" />
+<img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="100%" height="500" style="object-fit:cover;border-radius:10px"/>
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=600&color=1DB954&center=true&vCenter=true&width=650&lines=Hey+I'm+Pratik+%28prat-347-ik%29+🎧;Developer+%7C+Audiophile+%7C+Beat+Maker;I+mix+code+and+beats+for+a+living!)
