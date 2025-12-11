@@ -1,0 +1,62 @@
+<!-- banner.svg — save to your repo root -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" preserveAspectRatio="none">
+  <rect width="1200" height="180" fill="#0A0A0A"/>
+  <!-- 10 bars -->
+  <g transform="translate(60,0)">
+    <!-- bar template: change x per bar -->
+    <rect x="0" y="40" rx="6" width="40" height="100" fill="#1DB954">
+      <animate attributeName="height" values="30;140;60;120;40;100" dur="1.6s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;40;80;60;120;80" dur="1.6s" repeatCount="indefinite" />
+    </rect>
+
+    <rect x="70" y="60" rx="6" width="40" height="80" fill="#19a14a">
+      <animate attributeName="height" values="40;120;50;140;70;90" dur="1.5s" begin="0.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="120;60;110;30;100;90" dur="1.5s" begin="0.15s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="140" y="50" rx="6" width="40" height="90" fill="#15a34f">
+      <animate attributeName="height" values="50;130;70;110;35;95" dur="1.7s" begin="0.25s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="100;50;110;40;120;85" dur="1.7s" begin="0.25s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="210" y="45" rx="6" width="40" height="95" fill="#13a24d">
+      <animate attributeName="height" values="45;135;65;115;45;100" dur="1.4s" begin="0.05s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="105;45;115;35;115;80" dur="1.4s" begin="0.05s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="280" y="70" rx="6" width="40" height="70" fill="#12a14b">
+      <animate attributeName="height" values="30;110;45;125;55;85" dur="1.3s" begin="0.35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="120;70;115;55;125;95" dur="1.3s" begin="0.35s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="350" y="40" rx="6" width="40" height="100" fill="#0fb043">
+      <animate attributeName="height" values="35;140;60;120;40;100" dur="1.6s" begin="0.12s" repeatCount="indefinite" />
+      <animate attributeName="y" values="115;40;80;60;120;80" dur="1.6s" begin="0.12s" repeatCount="indefinite" />
+    </rect>
+
+    <rect x="420" y="55" rx="6" width="40" height="85" fill="#0ebf3f">
+      <animate attributeName="height" values="45;125;60;100;50;95" dur="1.45s" begin="0.22s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="110;55;120;60;115;85" dur="1.45s" begin="0.22s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="490" y="65" rx="6" width="40" height="75" fill="#0dbf3d">
+      <animate attributeName="height" values="30;120;50;110;45;85" dur="1.35s" begin="0.32s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="125;65;120;70;115;95" dur="1.35s" begin="0.32s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="560" y="48" rx="6" width="40" height="92" fill="#0cbf3b">
+      <animate attributeName="height" values="50;140;70;110;45;95" dur="1.55s" begin="0.08s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="100;48;110;40;120;85" dur="1.55s" begin="0.08s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="630" y="52" rx="6" width="40" height="88" fill="#0bbf39">
+      <animate attributeName="height" values="40;130;60;115;50;90" dur="1.5s" begin="0.18s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="110;52;115;45;120;86" dur="1.5s" begin="0.18s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Optional text (replace or remove) -->
+  <text x="50" y="160" font-family="Segoe UI, Roboto, Arial" font-size="16" fill="#9aa6a6">
+    🎧 prat-347-ik — Developer • Audiophile • Beat Maker
+  </text>
+</svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header GIF -->
-<img src="https://media.giphy.com/media/26xBI73gWquCBBCWQ/giphy.gif" width="100%" height="180" style="object-fit:cover;border-radius:10px"/>
+<img src="https://raw.githubusercontent.com//main/banner.svg" width="100%" />
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=600&color=1DB954&center=true&vCenter=true&width=650&lines=Hey+I'm+Pratik+%28prat-347-ik%29+🎧;Developer+%7C+Audiophile+%7C+Beat+Maker;I+mix+code+and+beats+for+a+living!)
@@ -15,9 +15,8 @@
 ---
 
 ## 🎵 Now Playing on Spotify
-<a href="https://open.spotify.com/user/0zxxrz7dggy15pbq25as5u6hk">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0zxxrz7dggy15pbq25as5u6hk&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=1DB954" height="150" />
-</a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0zxxrz7dggy15pbq25as5u6hk&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
 
 ---
 
