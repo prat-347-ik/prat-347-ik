@@ -32,9 +32,10 @@
 
 | 🎛️ Demo | 🎶 Track Name | 🎚️ Stack | ⭐ Stars |
 |--------|---------------|----------|---------|
-| ▶️ [Live Demo](https://pdf-utilizer.netlify.app/) | **[Track 01: Pdf-Utilizer](https://github.com/prat-347-ik/Pdf-Utilizer)** | React | ⭐ 1 |
-| ▶️ [Live Demo](https://agri-cult.netlify.app/) | **[Track 02: Agri-cult](https://github.com/blueboi77/agri-culture)** | JavaScript | ⭐ 1 |
-| ⏸️ | **[Track 03: AAYUSH](https://github.com/Parvathi04-star/ADMIN-1)** | TypeScript | ⭐ 0 |
+| ▶️ [Live Demo](https://smart-inventory-command-center.vercel.app/) | **[Track 01: Smart-Inventory Command Center](https://github.com/prat-347-ik/smart-inventory-command-center)** | Python | ⭐ 1 |
+| ▶️ [Live Demo](https://pdf-utilizer.netlify.app/) | **[Track 02: Pdf-Utilizer](https://github.com/prat-347-ik/Pdf-Utilizer)** | React | ⭐ 1 |
+| ▶️ [Live Demo](https://agri-cult.netlify.app/) | **[Track 03: Agri-cult](https://github.com/blueboi77/agri-culture)** | JavaScript | ⭐ 1 |
+| ⏸️ | **[Track 04: AAYUSH](https://github.com/Parvathi04-star/ADMIN-1)** | TypeScript | ⭐ 0 |
 | ⏸️ | **[Bonus Track: Utility Tool](https://github.com/prat-347-ik/Ground-Water-Reserve-Prediction-Model)** | Jupyter Notebook | ⭐ 2 |
 
 </div>
